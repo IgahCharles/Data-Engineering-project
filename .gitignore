@@ -1,0 +1,12 @@
+# Data files
+nyc-taxi-data.csv
+nyc-taxi-data.zip
+
+# Additional common exclusions (optional)
+*.log
+*.tmp
+*.bak
+.DS_Store
+*.swp
+*.pyc
+__pycache__/
